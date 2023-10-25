@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.container {
+    background: linear-gradient(0deg, #211F20 0%, #44403F 100%);
+}
+.nav__link {
+    color: var(--text-color);
+    text-decoration: none;
+}
+.image {
+    width: 599px;
+    height: 399px;
+}
+.name {
+    text-decoration: none;
+    color: var(--text-color);
+}
