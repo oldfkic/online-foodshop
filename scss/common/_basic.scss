@@ -11,11 +11,21 @@ body {
     color: var(--text-color);
     text-decoration: none;
 }
+.banner {
+    padding: 90px 120px  50px;
+}
+.card {
+    display: flex;
+    flex-direction: row;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #494544 0%, #504B4A 100%);
+}
 .image {
     width: 599px;
     height: 399px;
 }
-.name {
-    text-decoration: none;
-    color: var(--text-color);
-}
+// .name {
+//     text-decoration: none;
+//     color: var(--text-color);
+//     list-style-type: none;
+// }
