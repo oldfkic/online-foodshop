@@ -6,6 +6,8 @@ body {
 }
 .container {
     background: linear-gradient(0deg, #211F20 0%, #44403F 100%);
+    margin: 0;
+    max-width: 100%;
 }
 .navbar {
     padding: 10px 80px;
@@ -14,7 +16,7 @@ body {
     color: var(--text-color);
     text-decoration: none;
 }
-.banner {
+.banner__card {
     padding: 90px 120px  50px;
 }
 .card {
