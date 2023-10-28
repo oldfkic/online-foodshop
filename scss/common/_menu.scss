@@ -1,0 +1,35 @@
+.row {
+    gap: 5px;
+    flex-wrap: nowrap;
+    padding:  0 40px 50px 40px;
+}
+.menu-1{
+    color: #fff;
+    border-radius: 10px;
+    background: linear-gradient(90deg, #494544 0%, #504B4A 100%);
+}
+.more {
+    font-size: 2rem;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 50px auto ;
+}
+.menu__info {
+    padding: 0.875rem;
+}
+.menu__title {
+    font-size: 1.375rem;
+}
+.menu__pages {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.75rem;
+    margin-bottom: 1.875rem;
+}
+.menu__shop {
+    display: flex;
+    justify-content: space-between;
+}
+.menu__money {
+    font-size: 20px;
+}
